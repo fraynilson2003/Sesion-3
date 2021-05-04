@@ -18,7 +18,7 @@ def estCondicional02():
   print("Ejemplo estructura Condicional en Python")
   montoP=0
   #Datos de entrada
-  cantidadX=int(input("Ingrese la cantidad de lapices:")) 
+  cantidadX=int(input("Ingrese la cantidad de personas:")) 
   #Proceso
   if cantidadX<=200: 
     montoP=cantidadX*95
