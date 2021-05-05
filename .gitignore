@@ -1,4 +1,12 @@
 * .replit
+* .jar
+# ** / *
+! ** / * .cpp
+! ** / * .dart
+! ** / * .go
 ! ** / * .java
-! ** / * .python
-! ** / * .class
+! ** / * .kt
+! ** / * .py
+! ** / * .rb
+! ** / * .scala
+! ** / * .htm
