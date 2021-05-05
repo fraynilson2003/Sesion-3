@@ -16,7 +16,7 @@ def ejercicio07():
 
   if sueldo<1000:
     sueldototal2=(sueldo*0.25)
-  elif sueldo>1000 and sueldo<=3500:
+  elif sueldo>=1000 and sueldo<=3500:
     sueldototal2=(sueldo*0.15)
   elif sueldo>3500:
     sueldototal2=(sueldo*0.1)
