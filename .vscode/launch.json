@@ -1,0 +1,119 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch EtrRepetitive",
+            "request": "launch",
+            "mainClass": "EtrRpetitive.EtrRepetitive",
+            "projectName": "Sesion-3_2aba78ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio01",
+            "request": "launch",
+            "mainClass": "Examen.Ejercicio01",
+            "projectName": "Sesion-3_2aba78ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio02",
+            "request": "launch",
+            "mainClass": "Examen.Ejercicio02",
+            "projectName": "Sesion-3_2aba78ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio03",
+            "request": "launch",
+            "mainClass": "Examen.Ejercicio03",
+            "projectName": "Sesion-3_2aba78ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio04",
+            "request": "launch",
+            "mainClass": "Examen.Ejercicio04",
+            "projectName": "Sesion-3_2aba78ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio05",
+            "request": "launch",
+            "mainClass": "Examen.Ejercicio05",
+            "projectName": "Sesion-3_2aba78ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch EstCondicional",
+            "request": "launch",
+            "mainClass": "Pruebas.EstCondicional",
+            "projectName": "Sesion-3_2aba78ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch EtrRepetitive",
+            "request": "launch",
+            "mainClass": "StruRepetitive.EtrRepetitive",
+            "projectName": "Sesion-3_2aba78ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch StruRepetitive",
+            "request": "launch",
+            "mainClass": "StruRepetitive.StruRepetitive",
+            "projectName": "Sesion-3_2aba78ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio01(1)",
+            "request": "launch",
+            "mainClass": "Tarea.Ejercicio01",
+            "projectName": "Sesion-3_2aba78ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio02(1)",
+            "request": "launch",
+            "mainClass": "Tarea.Ejercicio02",
+            "projectName": "Sesion-3_2aba78ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio11",
+            "request": "launch",
+            "mainClass": "Tarea.Ejercicio11",
+            "projectName": "Sesion-3_2aba78ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejerciciodelprofe",
+            "request": "launch",
+            "mainClass": "Tarea.Ejerciciodelprofe",
+            "projectName": "Sesion-3_2aba78ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch EstCondicional(1)",
+            "request": "launch",
+            "mainClass": "estcondmult.EstCondicional",
+            "projectName": "Sesion-3_2aba78ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prueba",
+            "request": "launch",
+            "mainClass": "estcondmult.Prueba",
+            "projectName": "Sesion-3_2aba78ba"
+        }
+    ]
+}

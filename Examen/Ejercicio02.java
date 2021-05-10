@@ -1,3 +1,5 @@
+package Examen;
+
 import java.util.Scanner;
 class Ejercicio02{
   static Scanner teclado=new Scanner(System.in);

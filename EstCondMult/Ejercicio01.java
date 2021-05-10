@@ -1,3 +1,4 @@
+package estcondmult;
 import java.util.scanner;
 class Ejercicio01{
   static Scanner teclado=new Scanner(System.in);
