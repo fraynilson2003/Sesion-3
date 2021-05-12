@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch RepasoJava",
+            "request": "launch",
+            "mainClass": "RepasoJava",
+            "projectName": "Sesion-3_2aba78ba"
+        },
+        {
+            "type": "java",
             "name": "Launch Ejercicio11",
             "request": "launch",
             "mainClass": "Ejercicio11",
