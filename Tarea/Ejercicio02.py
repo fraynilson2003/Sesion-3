@@ -11,5 +11,7 @@ def Ejercicio2():
   else:
     sueldopagarsemanal=horastrabajadas*preciopagadoporhora
   #datos de salida
-  print("el sueldo a pagar al trbajador es:", sueldopagarsemanal)
+  print("el sueldo a pagar al trabajador es:", sueldopagarsemanal)
 Ejercicio2()
+
+

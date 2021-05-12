@@ -141,8 +141,10 @@ class Ejercicio05{
           //Datos de salida
           System.out.println("Su resultado es: "+resultado+ "\nY la operacion realizada es: "+operacion);
           }break;
+        default:{System.out.println("Error en la introduccion de datos!!!!\nPor favor vuelva a intertarlo...");} break;
+        }
       }
-  }
+  
   public static void main(String[] arg){
 
     ejercicio05FTT();
