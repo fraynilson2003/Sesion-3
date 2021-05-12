@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Launch EtrRepetitive",
             "request": "launch",
+            "mainClass": "EtrRepetitive",
+            "projectName": "Sesion-3_2aba78ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch EtrRepetitive",
+            "request": "launch",
             "mainClass": "EtrRpetitive.EtrRepetitive",
             "projectName": "Sesion-3_2aba78ba"
         },
