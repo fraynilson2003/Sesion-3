@@ -1,4 +1,4 @@
-package EtrRpetitive;
+
 
 import java.util.Scanner;
 /**
@@ -57,8 +57,8 @@ public class EtrRepetitive {
     }
     public static void main(String[] args) {
         System.out.println("Holas Mundo!!");
+        //suma10NumerosMientras();
+        //suma10NumeroshacerMientras();
         suma10NumerosPara();
     }
 }
-
-//suma10NumeroshacerMientras();

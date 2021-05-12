@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Ejercicio11",
+            "request": "launch",
+            "mainClass": "Ejercicio11",
+            "projectName": "Sesion-3_2aba78ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio02",
+            "request": "launch",
+            "mainClass": "Ejercicio02",
+            "projectName": "Sesion-3_2aba78ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio03",
+            "request": "launch",
+            "mainClass": "Ejercicio03",
+            "projectName": "Sesion-3_2aba78ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio04",
+            "request": "launch",
+            "mainClass": "Ejercicio04",
+            "projectName": "Sesion-3_2aba78ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio05",
+            "request": "launch",
+            "mainClass": "Ejercicio05",
+            "projectName": "Sesion-3_2aba78ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio01",
+            "request": "launch",
+            "mainClass": "Ejercicio01",
+            "projectName": "Sesion-3_2aba78ba"
+        },
+        {
+            "type": "java",
             "name": "Launch EtrRepetitive",
             "request": "launch",
             "mainClass": "EtrRepetitive",
