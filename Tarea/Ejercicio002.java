@@ -1,6 +1,5 @@
 import java.util.Scanner;
-
-class Ejercicio02{
+class Ejercicio002{
 static Scanner input = new Scanner(System.in);
     public static void main(String[] args){
 int tiempo_de_trabajo;

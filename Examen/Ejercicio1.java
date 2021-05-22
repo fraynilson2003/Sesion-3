@@ -1,7 +1,7 @@
 
 
 import java.util.Scanner;
-class Ejercicio01{
+public class Ejercicio1{
   static Scanner teclado=new Scanner(System.in);
   static void ejercicio01FTT(){
     //Inicio

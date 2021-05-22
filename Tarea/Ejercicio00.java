@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Ejercicio01{
+class Ejercicio00{
 static Scanner input = new Scanner(System.in);
     public static void main(String[] args){
 int edad_de_la_persona;

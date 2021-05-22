@@ -1,8 +1,8 @@
 //Es el ejercicio 3.8 en java
 import java.util.Scanner;
-class Ejercicio11{ 
+public class Ejercicio011{ 
   static Scanner teclado=new Scanner(System.in);
-  static void ejercicio11(){
+  static void ejercicio09(){
     //Definir variables
     int años;
     double sueldo, bonoAnt=0, bonosueldo=0, bonoreal=0;
@@ -36,7 +36,7 @@ class Ejercicio11{
     
   }
   public static void main(String[] arg){
-  ejercicio11();
+  ejercicio09();
   }
 }
     
