@@ -13,7 +13,7 @@ public class Ejercicio19 {
         mensual=teclado.nextDouble();
         System.out.println("¿Cuantos años de interes quiere calcular?");
         años=teclado.nextInt();
-        inversionanual=mensual*10;
+        inversionanual=mensual*12;
         while (contador<=años) {
             subtotal=inversionanual+((subtotal*0.10)+subtotal);
             
