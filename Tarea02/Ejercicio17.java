@@ -8,7 +8,7 @@ public class Ejercicio17 {
         
         //Inicio
         System.out.println("Hola, calcularemos el promedio de los alumnos por salones y todo el colegio");
-        //Datos de introduccion
+        //Datos de introduccion  y Proceso
         int contador=1, salones=0, cantalum=0, edad=0;
         double promaula=0, promtotal=0, subpromoaula=0;
         System.out.println("Ingrese la cantidad de salones que posee la institucion: ");
@@ -17,6 +17,7 @@ public class Ejercicio17 {
             System.out.println("Cuantos alumnos hay en el "+contador+" salon:");
             cantalum=teclado.nextInt();
             int contador2=1;
+                //Bucle para salon
                 while(contador2<=cantalum){
                 System.out.println("Ingrese las edades de los alumnos del salon "+contador+" :");
                 System.out.println("alumno numero "+contador2);
@@ -33,6 +34,7 @@ public class Ejercicio17 {
             contador++; 
             }  
             promtotal=promtotal/salones;
+            //Salida de datos
             System.out.println("\nLA EDAD PROMEDIO DE TODA LA ESCUELA ES DE: "+promtotal);
              
     }
