@@ -1,10 +1,11 @@
 {
     "java.project.sourcePaths": [
+        "xd",
         "Tarea02",
         "Tarea",
         "OpenEditor",
         "Examen",
         "EtrRpetitive",
-        "xd"
+        "SV/src"
     ]
 }
