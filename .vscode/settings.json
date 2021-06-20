@@ -3,9 +3,11 @@
         "xd",
         "Tarea02",
         "Tarea",
+        "SV/src",
+        "ProyectoVentasG3/src/main/java/pe/edu/upeu/app",
         "OpenEditor",
         "Examen",
         "EtrRpetitive",
-        "SV/src"
+        "ExamenFTT/src/main/java/pe/edu/upeu/ftt"
     ]
 }
