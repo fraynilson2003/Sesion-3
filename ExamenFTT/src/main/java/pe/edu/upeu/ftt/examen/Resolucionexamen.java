@@ -106,19 +106,33 @@ public class Resolucionexamen {
     private static void ejemplo04FTT(){
         LeerTeclado ft=new LeerTeclado();
         //Inicio
+        
         System.out.println("Buenos dias, hoy calcularemos la potencias recursivamente");
         //Introduccion de datos
+        
         int numero=0, contador=1, exponente=0;
         double resultado=0;
         numero=ft.leer(0, "Ingrese el numero a elevar:");
         exponente=ft.leer(0, "Ingrese el exponente");
         //proceso
+        if(exponente>0){ 
             resultado=numero;
             for (contador=1; contador<exponente; contador++){
                 resultado=resultado*numero;
             }
             System.out.println("El resultado de la potencia es: "+resultado);
         }
+        if(exponente<0){
+            resultado=numero;
+            for (contador=1; contador>exponente; contador=contador-1){
+                resultado=resultado/numero;
+        }
+            System.out.println("El resultado de la potencia es: "+resultado);
+        }
+        if (exponente==0){
+            System.out.println("Elresultado de la potencia es 0");
+        }
+    }
           
 
     public Resolucionexamen(){ 
