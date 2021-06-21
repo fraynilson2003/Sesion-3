@@ -75,14 +75,32 @@ public class Resolucionexamen {
         //Inicio
         System.out.println("Hola, hoy hallaremos los numerosperfectos");
         //Introduccion de datos
-        int numeros=0, contador=1, operador=1, auxiliar=0;
+        int numeros=0, contador=2, contador2=1, extra=2;
+        int auxiliar=0, contadoraxuliar=0, probador=1;
         numeros=ft.leer(0, "Ingrese hasta el numero hasta el que hallaremos los numeros perfectos");
-        for (contador=1; contador<=numeros; contador++) {
-            
-            
-            
-            
-            }
+
+        while(contador<=numeros){
+
+                while(probador<contador){ 
+                    auxiliar=contador%contador2;
+                        if(auxiliar==0){
+                            contadoraxuliar=contadoraxuliar+contador2;
+                        }else{ 
+                        }
+                        probador++;
+                        contador2++;
+                       }
+                if(contadoraxuliar==contador){ 
+                       System.out.println("El numero "+contador+" es un numero perfecto");
+                }
+                probador=1;
+                auxiliar=0;
+                contador2=1;
+                //extra=2;
+                contadoraxuliar=0;
+
+        contador=contador+1;
+    }
         }
     
     private static void ejemplo04FTT(){
