@@ -110,7 +110,8 @@ public class Resolucionexamen {
         //Introduccion de datos
         int base=ft.leer(0, "Introdusca la base: ");
         int exponente=ft.leer(0, "Introdusca el exponente");
-        System.out.println(potencia(base, exponente));
+        
+        System.out.println("\nEl resulado de la operacion es: "+potencia(base, exponente));
         
     }
     public static double potencia(int base, int exponente){
