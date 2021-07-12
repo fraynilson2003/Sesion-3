@@ -1,0 +1,16 @@
+C1	Bebidas
+C2	Golosinas
+C3	gorras
+C4	Balones
+C5	Utiles
+C6	Verduras
+C7	Frutas
+C8	jugos
+C9	Leche
+C10	Gaseosas
+C11	Hamburguesass
+C12	kolinos
+C13	Gasesosas
+C14	GAsesosas
+C15	Gasesosas
+C16	Dulces
