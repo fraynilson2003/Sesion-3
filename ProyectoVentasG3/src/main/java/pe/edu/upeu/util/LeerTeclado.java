@@ -3,6 +3,7 @@ package pe.edu.upeu.util;
 import java.io.*;
 
 public class LeerTeclado {
+    
     BufferedReader br = new BufferedReader(
         new InputStreamReader(System.in)); 
 
@@ -62,6 +63,6 @@ public class LeerTeclado {
                valor=leer(valor, msg);
            }
             return valor;
-    }          
-    
+    }      
+
 }

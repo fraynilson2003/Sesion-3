@@ -1,0 +1,2 @@
+P1	Naranja	fr	cantidad	1.2	0.05	2.0
+P2	Zanahoria	c2	kg	3.5	0.05	27.0

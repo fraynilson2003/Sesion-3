@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Practica",
+            "request": "launch",
+            "mainClass": "Practica",
+            "projectName": "Sesion-3_2aba78ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch EjemploMatrices",
+            "request": "launch",
+            "mainClass": "pe.edu.upeu.arreglos.EjemploMatrices",
+            "projectName": "ProyectoVentasG3"
+        },
+        {
+            "type": "java",
             "name": "Launch EjemploVectores",
             "request": "launch",
             "mainClass": "pe.edu.upeu.arreglos.EjemploVectores",
