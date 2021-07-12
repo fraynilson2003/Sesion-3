@@ -121,6 +121,26 @@ public class Transformadas {
     imprimirMatrizCadena(matriz);
 }
 
+public void transformada24(int dimen, int valInit) {
+    String [][] matriz=new String[dimen][dimen];  //i=filas,    j=columnas
+    for (int j = matriz[0].length-1; j >= 0; j--) {
+        if(j%2==0){ 
+        
+        for (int i = matriz.length-1;i>=0 ; i--) {
+            matriz[i][j]=""+valInit;
+            valInit++;
+        }
+        }else{
+            for (int i = 0; i < matriz.length; i++) {
+                matriz[i][j]=""+valInit;
+                valInit++;
+            } 
+        }
+    }   
+    imprimirMatrizCadena(matriz);
+}
+
+
 
 
 
@@ -131,7 +151,8 @@ public class Transformadas {
         tObj.transformada2(5,0);
         System.out.println("");
         tObj.transformada05(5, 0);
-        tObj.transformada13(5, 0);*/
-        tObj.transformada21(5, 0);
+        tObj.transformada13(5, 0);
+        tObj.transformada21(5, 0);*/
+        tObj.transformada24(5, 0);
     }
 }
